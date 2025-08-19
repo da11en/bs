@@ -36,3 +36,5 @@ public class MainActivity extends Activity {
         }
     }
 }
+
+// My Fire Stick app
